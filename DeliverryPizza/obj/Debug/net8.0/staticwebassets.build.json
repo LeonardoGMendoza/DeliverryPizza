@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s6e0OGKqRVX26OVS0JisPYSFV0y+kk0oeOcYwhmqxfE=",
+  "Source": "DeliverryPizzaAPI",
+  "BasePath": "_content/DeliverryPizzaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

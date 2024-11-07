@@ -1,0 +1,12 @@
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\bin\Debug\net8.0\DeliverryPizza.Model.deps.json
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\bin\Debug\net8.0\DeliverryPizza.Model.dll
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\bin\Debug\net8.0\DeliverryPizza.Model.pdb
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\DeliverryPizza.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\DeliverryPizza.Model.AssemblyInfoInputs.cache
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\DeliverryPizza.Model.AssemblyInfo.cs
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\DeliverryPizza.Model.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\DeliverryPizza.Model.sourcelink.json
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\DeliverryPizza.Model.dll
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\refint\DeliverryPizza.Model.dll
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\DeliverryPizza.Model.pdb
+C:\Users\LEONARDO\source\repos\DeliverryPizza\DeliverryPizza.Model\obj\Debug\net8.0\ref\DeliverryPizza.Model.dll
